@@ -185,6 +185,10 @@ tbody tr {
   position: relative;
   z-index: 0;
 }
+.menu-panel li.category-link .badge-wrapper.bar,
+.menu-panel li.category-link .badge-wrapper.bullet {
+  padding: 2px 8px;
+}
 .badge-wrapper.bullet .badge-category-bg,
 .badge-wrapper.bullet .badge-category-parent-bg + .badge-category-bg {
   position: absolute;
