@@ -234,7 +234,7 @@ tbody tr {
   background: #e2e2e2;
 }
 .btn:focus {
-  box-shadow: 0 0 0 1px $accent, 0 0 0 3px transparentize($accent, 0.8);
+  box-shadow: 0 0 0 1px $accent, 0 0 0 4px transparentize($accent, 0.8);
 }
 
 .btn-primary, #create-topic {
@@ -335,7 +335,7 @@ tbody tr {
 }
 .select-kit.dropdown-select-box .dropdown-select-box-header.is-focused {
   outline: none;
-  box-shadow: 0 0 0 1px $accent, 0 0 0 3px transparentize($accent, 0.8);
+  box-shadow: 0 0 0 1px $accent, 0 0 0 4px transparentize($accent, 0.8);
 }
 
 /* Nav pills */
